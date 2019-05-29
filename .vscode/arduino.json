@@ -1,0 +1,5 @@
+{
+    "sketch": "modbusSlave.ino",
+    "board": "arduino:avr:uno",
+    "port": "COM14"
+}
