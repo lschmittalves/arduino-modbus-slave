@@ -1,5 +1,6 @@
 {
-    "sketch": "modbusSlave.ino",
+    "sketch": "ModbusSlave.ino",
     "board": "arduino:avr:uno",
-    "port": "COM14"
+    "port": "COM14",
+    "output": "./build"
 }
